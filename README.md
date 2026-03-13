@@ -84,6 +84,9 @@
 
 * Civic-tech platform simplifying **constitutional rights and duties**
 * Added **simplified article summaries**
+* Built **quiz-based learning system**
+* Designed **multilingual support concept**
+
 ---
 
 # 🏆 Achievements
@@ -112,18 +115,6 @@
 
 <a href="https://codeforces.com/profile/Iwillbenolessthanred">
 <img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.interviewbit.com/profile/johndoe">
-<img src="https://img.shields.io/badge/InterviewBit-1976D2?style=for-the-badge&logo=interviewbit&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/johndoe">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/johndoe">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://atcoder.jp/users/mohawkS">
