@@ -101,7 +101,7 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/u/rexmex">
+<a href="https://leetcode.com/u/rex_mex">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
